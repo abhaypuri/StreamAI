@@ -53,3 +53,4 @@ The application covers various domains of AI like NLP, Computer Vision, Speech P
 Computer vision is a field of study that deals with how computers can gain high-level understanding from digital images or videos. Under this, we have covered following algorithms:
 #### (a) Face Detection-
 A central algorithm in computer vision responsible for detecting several faces using Open-CV and Haar-Cascade Classifier. 
+![image](gifs/FaceDetection.gif)
