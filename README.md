@@ -32,7 +32,7 @@ The application looks like this:
 
 ![image](images/screen_home.png)
 
-It is currently hosted by Render.com and each push leads to a new build of the app. I am using the standard plan (2Gb RAM). If you would like to contribute, feel free to submit a PR.
+If you would like to contribute, feel free to submit a PR.
 
 To run it locally, clone this project and run :
 
@@ -40,8 +40,16 @@ To run it locally, clone this project and run :
 pip install -r requirements
 ```
 
-Rrun the app:
+Run the app:
 
 ```bash
 streamlit run app.py
 ```
+
+## Functionalities of the app:
+The application covers various domains of AI like NLP, Computer Vision, Speech Processing, Data Visualisation and Generative Models. Below are the snapshots depicting the functioning of various algorithms under each domain.
+
+### 1. Computer Vision
+Computer vision is a field of study that deals with how computers can gain high-level understanding from digital images or videos. Under this, we have covered following algorithms:
+#### (a) Face Detection-
+A central algorithm in computer vision responsible for detecting several faces using Open-CV and Haar-Cascade Classifier. 
