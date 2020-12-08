@@ -1,4 +1,4 @@
-# Data Science App
+# StreamAI
 
 In this app, I'll be deploying NLP, Computer Vision, Speech Processing and Generative models in a single application on Streamlit. 
 
