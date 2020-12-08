@@ -1,6 +1,6 @@
 # StreamAI
 
-In this app, I'll be deploying NLP, Computer Vision, Speech Processing and Generative models in a single application on Streamlit. 
+In this app, We'll be deploying NLP, Computer Vision, Speech Processing and Data science Models in a single application on Streamlit. 
 
 ## What's inside?
 
@@ -17,12 +17,8 @@ The algorithms covered are:
 	- Face Detection with `Haar Cascade Classifier`
 	- Face Recognition with `facerecognition`
 - Speech Processing
-	- Voice Activity Detection
-	- Speaker Identification
-- Generative Models
-	- A GAN to generate digits
-	- A GAN to generate faces
-	- Text-to-images
+	- Gender Based Identification
+
 
 I integrate and deploy everything using Streamlit and Render.com. 
 
@@ -37,7 +33,7 @@ If you would like to contribute, feel free to submit a PR.
 To run it locally, clone this project and run :
 
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 
 Run the app:
