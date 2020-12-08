@@ -47,6 +47,25 @@ The application covers various domains of AI like NLP, Computer Vision, Speech P
 
 ### 1. Computer Vision
 Computer vision is a field of study that deals with how computers can gain high-level understanding from digital images or videos. Under this, we have covered following algorithms:
+
 #### (a) Face Detection-
 A central algorithm in computer vision responsible for detecting several faces using Open-CV and Haar-Cascade Classifier. 
 ![image](gifs/FaceDetection.gif)
+
+#### (b) Smile Detection-
+A smile detector built using OpenCV browses an image and detects the smiles. Haar-cascades classifiers have been used which detect smile by superimposing predefined patterns over face segments and are used as XML files. 
+![image](gifs/smile.gif)
+
+#### (c) Eyes Detection-
+The algorithm in computer vision is used for detecting eyes in an image using Open-CV and Haar-Cascade Classifier. 
+![image](gifs/eye.gif)
+
+#### (d) Pose Detection-
+This algorithm is used to infer the pose of a person in an image by identifying, locating, and tracking a number of keypoints on a given person. These key points represent major joints like an elbow or knee. 	
+![image](gifs/pose.gif)
+
+#### (e) Object Detection-
+As the name suggests, this algorithm extracts objects from an image and identify them. This task involves the use of YOLOv3 (You Only Look Once-Version 3), a pre-trained model. YOLO is a state-of-the-art algorithm trained to identify thousands of objects types with great accuracy. 
+![image](gifs/objDetection.gif)
+
+
