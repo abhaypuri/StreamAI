@@ -15,9 +15,18 @@ The algorithms covered are:
 - Computer Vision
 	- Object Detection with `Yolov3`
 	- Face Detection with `Haar Cascade Classifier`
-	- Face Recognition with `facerecognition`
+	- Eyes Detection with `Haar Cascade Classifier`
+	- Smile Detection with `Haar Cascade Classifier`
+	- Image Contrasting using `OpenCV`
+	- Cannize with `Haar Cascade Classifier`
+	- Cartoonize with `Haar Cascade Classifier`
+	- Style Detection
+	- Semantic Segmentation 
+	- Pose Detection
 - Speech Processing
-	- Gender Based Identification
+	- Voice Based Gender Identification
+- Data Visualization
+	- DataSet Explorer for Exploratory Data Analysis using `Pandas Profiling` and `Sweetviz`
 
 
 I integrate and deploy everything using Streamlit and Render.com. 
@@ -68,4 +77,19 @@ This algorithm is used to infer the pose of a person in an image by identifying,
 As the name suggests, this algorithm extracts objects from an image and identify them. This task involves the use of YOLOv3 (You Only Look Once-Version 3), a pre-trained model. YOLO is a state-of-the-art algorithm trained to identify thousands of objects types with great accuracy. 
 ![image](gifs/objDetection.gif)
 
+### 2. Natural Language Processing
+A technique to translate natural language into a format understandable by computers in order to process huge amount of data intelligently to yield the useful information. Under this, we have covered following algorithms:
+#### (a) Part-Of-Speech Tagging 
+This algorithm is intended for assigning parts of speech (such as NOUN, ADJECTIVE, CONJUNCTION etc.) to individual words in a provided sentence. `SpaCy`, which provides a default model to recognise correct parts-of-speech tags from a text depending upon the context, has been used to implement this.
+![image](gifs/pos.gif)
 
+#### (b) Named Entity Recognition
+This algorithm is responsible for classifying entities in a provided sentence into predefined categories such as person, date, time, location, organization, percentage etc. This has been trained using a pre-trained model -`SpaCy` which is known to be the fastest NLP framework in Python. we have focused on ***`spacy_streamlit.visualize_ner()`*** to visualize the Named Entities using spaCy model.
+![image](gifs/ner.gif)
+
+#### (c) Sentiment Analysis
+Sentiment Analysis from a text is a classical problem of NLP. This algorithm is a text analysis technique that detects the sentiment of the user, whether it's positive or negative.
+![image](gifs/sentiment.gif)
+
+#### (d) Question Answering
+This algorithm is intended to build systems that automatically answer questions posed by humans in a natural language. You write a query regarding a long input text, the algorithm goes through the text and identifies the region of the text which is the most likely to contain the answer.
