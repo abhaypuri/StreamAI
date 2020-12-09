@@ -29,7 +29,7 @@ The algorithms covered are:
 	- DataSet Explorer for Exploratory Data Analysis using `Pandas Profiling` and `Sweetviz`
 
 
-I integrate and deploy everything using Streamlit and Render.com. 
+I have integrated everything using Streamlit. 
 
 ## How to use it?
 
