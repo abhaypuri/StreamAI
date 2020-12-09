@@ -35,7 +35,7 @@ We have integrated everything using Streamlit.
 
 The application looks like this:
 
-![image](images/Main.gif)
+![image](gifs/Main.gif)
 
 If you would like to contribute, feel free to submit a PR.
 
