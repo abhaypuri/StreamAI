@@ -87,17 +87,25 @@ As the name suggests, this algorithm extracts objects from an image and identify
 
 ![image](gifs/objDetection.gif)
 
+
 #### (f) Image Contraction-
 This algorithm is intended to have the contrasted, grayscaled or blurred image of the image provided by us. This is implemented using OpenCV.
 
+![image](gifs/contrast.gif)
+
+
 #### (g) Cannize and Cartoonize-
 This algorithm is used to cannize or cartoonize an image using OpenCV and `Haar-cascade Classifiers` into animated photos or cartoon scenes.
+
+![image](gifs/Cartoonize-Cannize.gif)
+
 
 #### (h) Semantic Segmentation-
 This classifies pixels of image into different classes (label the pixels to the corresponding classes). Its use case can be seen in `Self Driving Cars` to detect the road, vehicles, pavements etc. 
 
 
 #### (i) Style Detection-
+
 
 
 ### 2. Natural Language Processing
@@ -128,6 +136,7 @@ This algorithm is intended to build systems that automatically answer questions 
 
 ### 3. Data Visualization
 Data visualization is the graphical representation of information and data. By using visual elements like charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data. Under this, we have covered following algorithms:
+
 #### (a) DataSet Explorer
 This basically serves the purpose of Exploratory Data Analysis which analyzes data from statistics, simple plotting tools, linear algebra and other techniques to understand what the dataset is, before we go to actual machine learning. The analysis reports are generated using `Pandas Profiling` and `Sweetviz`.
 
