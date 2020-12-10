@@ -66,7 +66,7 @@ def blog_cv():
 		    
 		    <div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5f97df2a83b4c0275824b794" target = "_blank" class="white-text">
+					<a href="https://srishti.hashnode.dev/face-detection-app" target = "_blank" class="white-text">
 					<center> 
 					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603974251162/iF_dH1qmG.gif" width="600" height="300"><br>
 					FACE DETECTION </center>
@@ -77,7 +77,7 @@ def blog_cv():
 
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5f9a5dc41646ee3072b6e2e5" target = "_blank" class="white-text">
+					<a href="https://srishti.hashnode.dev/eyes-detection-app-using-streamlit-and-opencv" target = "_blank" class="white-text">
 					<center> 
 					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603997342255/a6c0ofZAG.gif" width="600" height="300"><br>
 					EYES DETECTION </center>
@@ -88,7 +88,7 @@ def blog_cv():
 			
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5f9aac7ea1658252d1a7b5a6" target = "_blank" class="white-text">
+					<a href="https://srishti.hashnode.dev/smile-detection-using-streamlit-and-opencv" target = "_blank" class="white-text">
 					<center> 
 					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603995892721/cO2OTOI2S.gif" width="600" height="300"><br>
 					SMILE DETECTION </center>
@@ -101,7 +101,7 @@ def blog_cv():
 		        <div class="col s12">
 					<a href="https://hashnode.com/preview/5f99b5b51646ee3072b6db50" target = "_blank" class="white-text">
 					<center> 
-					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603974717391/c4EG6ibe7.gif" width="600" height="300"><br>
+					<img border="0" src="https://srishti.hashnode.dev/object-detection-app-using-yolov3-opencv-and-streamlit-1" width="600" height="300"><br>
 					OBJECT DETECTION </center>
 					</a>
 				</div>
