@@ -103,9 +103,12 @@ This algorithm is used to cannize or cartoonize an image using OpenCV and `Haar-
 #### (h) Semantic Segmentation-
 This classifies pixels of image into different classes (label the pixels to the corresponding classes). Its use case can be seen in `Self Driving Cars` to detect the road, vehicles, pavements etc. 
 
+![image](gifs/semantic.gif)
+
 
 #### (i) Style Detection-
 
+![image](gifs/style-min.gif)
 
 
 ### 2. Natural Language Processing
@@ -132,6 +135,7 @@ Sentiment Analysis from a text is a classical problem of NLP. This algorithm is 
 #### (d) Question Answering
 This algorithm is intended to build systems that automatically answer questions posed by humans in a natural language. You write a query regarding a long input text, the algorithm goes through the text and identifies the region of the text which is the most likely to contain the answer.
 
+![image](gifs/qa.gif)
 
 
 ### 3. Data Visualization
@@ -139,6 +143,9 @@ Data visualization is the graphical representation of information and data. By u
 
 #### (a) DataSet Explorer
 This basically serves the purpose of Exploratory Data Analysis which analyzes data from statistics, simple plotting tools, linear algebra and other techniques to understand what the dataset is, before we go to actual machine learning. The analysis reports are generated using `Pandas Profiling` and `Sweetviz`.
+
+![image](gifs/datasetExplorer.gif)
+
 
 #### (b) Bio-Informatics
 
