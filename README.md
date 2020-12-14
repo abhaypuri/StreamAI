@@ -158,5 +158,6 @@ This is basically a gender recognition system using vocal features. This is done
 - Extracting from the training set MFCC features (13 usually) for each gender
 - Train a GMM on those features
 - In prediction, compute the likelihood of each gender using the trained GMM, and pick the most likely gender.
-	
+
+![image](gifs/gender.gif)
 
