@@ -64,7 +64,7 @@ def blog_cv():
 		   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
 		
 		    
-		    <div class="row">
+		     <div class="row">
 		        <div class="col s12">
 					<a href="https://srishti.hashnode.dev/face-detection-app" target = "_blank" class="white-text">
 					<center> 
@@ -99,40 +99,41 @@ def blog_cv():
 
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5f99b5b51646ee3072b6db50" target = "_blank" class="white-text">
+					<a href="https://srishti.hashnode.dev/object-detection-app-using-yolov3-opencv-and-streamlit-1" target = "_blank" class="white-text">
 					<center> 
-					<img border="0" src="https://srishti.hashnode.dev/object-detection-app-using-yolov3-opencv-and-streamlit-1" width="600" height="300"><br>
+					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603974717391/c4EG6ibe7.gif?auto=format,compress&gif-q=60" width="600" height="300"><br>
 					OBJECT DETECTION </center>
 					</a>
 				</div>
 			</div>
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5fa796d20163314ab6d7f89d" target = "_blank" class="white-text">
+					<a href="https://yashaswi.hashnode.dev/image-constraction-app-using-streamlit" target = "_blank" class="white-text">
 					<center> 
-					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607420456601/fQhrt3dxQ.gif" width="600" height="300"><br>
+					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607795308661/dgOGuye87.png?auto=format&q=60" width="600" height="300"><br>
 					IMAGE CONSTRACTION </center>
 					</a>
 				</div>
 			</div>
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5fa829e5c0d56c5ae62e3804" target = "_blank" class="white-text">
+					<a href="https://yashaswi.hashnode.dev/pose-detection-app-using-streamlit" target = "_blank" class="white-text">
 					<center> 
-					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607368394104/f5UQCKG8f.gif" width="600" height="300"><br>
+					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607368394104/f5UQCKG8f.gif?auto=format,compress&gif-q=60" width="600" height="300"><br>
 					POSE DETECTION </center>
 					</a>
 				</div>
 			</div>
 			<div class="row">
 		        <div class="col s12">
-					<a href="https://hashnode.com/preview/5faa1706fc2ed04a63dd8790" target = "_blank" class="white-text">
+					<a href="https://yashaswi.hashnode.dev/canonize-and-cartoonize-app-using-streamlit" target = "_blank" class="white-text">
 					<center> 
-					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607418914149/iFGOSyDlG.gif" width="600" height="300"><br>
+					<img border="0" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1607418914149/iFGOSyDlG.gif?auto=format,compress&gif-q=60" width="600" height="300"><br>
 					<b>CANNIZE and CARTOONIZE</center>
 					</a>
 				</div>
 			</div>
+
 	"""
 	return cv
 
